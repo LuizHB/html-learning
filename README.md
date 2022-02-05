@@ -1,4 +1,3 @@
 # html-learning
-Just steps of learning in html
 
-Starting with many pages and separated subjects
+Alguns passos na aprendizagem em HTML
