@@ -2,8 +2,10 @@ a{
 	text-decoration: none;
 }
 
-ul.lista{
+
+ul.lista a, ul.lista{
 	list-style: none;
+	color: darkred;
 }
 
 ul#links{
@@ -30,10 +32,8 @@ ul#links li{
 	float: left;
 }
 
-a:hover, a{
-	background-position: right bottom;
-	color: #fff;
-	background-color: #f99200;
+ul.lista a:hover{
+	color: darksalmon;
 }
 
 ul#links a:hover{
@@ -46,7 +46,6 @@ h4{
 	column-span: 2;
 }
 
-
 #home #links .home a,
 #caracteres #links .caracteres a,
 #login #links .login a,
@@ -55,4 +54,9 @@ h4{
 	background-position: right bottom;
 	color: #fff;
 	background-color: #44cade;
+}
+
+#conteudo{
+	margin: 10px 10px;
+	padding: 10px;
 }
