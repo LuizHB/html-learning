@@ -1,7 +1,10 @@
+body{
+	 background: url("https://i.imgur.com/Ygrpzsh.png")
+}
+
 a{
 	text-decoration: none;
 }
-
 
 ul.lista a, ul.lista{
 	list-style: none;
