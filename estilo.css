@@ -1,3 +1,58 @@
 a{
 	text-decoration: none;
 }
+
+ul.lista{
+	list-style: none;
+}
+
+ul#links{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-align: center;
+	background: #159cb0 url(https://i.imgur.com/uUi8pH9.png) repeat-x;
+	float: left;
+}
+
+
+ul#links a{
+	padding: 0 2em;
+	line-height: 2em;
+	display: block;
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	background: url(https://i.imgur.com/thwjNuD.png) repeat-y;
+}
+
+ul#links li{
+	float: left;
+}
+
+a:hover, a{
+	background-position: right bottom;
+	color: #fff;
+	background-color: #f99200;
+}
+
+ul#links a:hover{
+	color: #085662;
+	background: #44cade;
+}
+
+h4{
+	text-align: center;
+	column-span: 2;
+}
+
+
+#home #links .home a,
+#caracteres #links .caracteres a,
+#login #links .login a,
+#tabela #links .tabela a,
+#contato #links .contato a{
+	background-position: right bottom;
+	color: #fff;
+	background-color: #44cade;
+}
