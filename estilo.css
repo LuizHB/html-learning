@@ -22,7 +22,7 @@ ul#links{
 
 
 ul#links a{
-	padding: 0 2em;
+	padding: 0 1em;
 	line-height: 2em;
 	display: block;
 	color: black;
@@ -53,7 +53,8 @@ h4{
 #caracteres #links .caracteres a,
 #login #links .login a,
 #tabela #links .tabela a,
-#contato #links .contato a{
+#contato #links .contato a,
+#javascript #links .javascript a{
 	background-position: right bottom;
 	color: #fff;
 	background-color: #44cade;
