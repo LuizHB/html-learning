@@ -1,4 +1,4 @@
-![Badge](http://img.shields.io/static/v1?label=STATUS&message=IN PROGRESS&color=red)
+![Badge](https://img.shields.io/badge/STATUS-IN%20PROGRESS-red?logo=github&style=for-the-badge)
 # html-learning
 
 Alguns passos na aprendizagem em HTML
